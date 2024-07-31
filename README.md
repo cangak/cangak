@@ -2,10 +2,6 @@
 <h3 align="center">webdev kocak, kerja kalo terpaksa</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cangak" alt="cangak" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tukang__sate__" target="blank"><img src="https://img.shields.io/twitter/follow/tukang__sate__?logo=twitter&style=for-the-badge" alt="tukang__sate__" /></a> </p>
-
 - 🔭 I’m currently working on **inovasi upa tik**
 
 - 🌱 I’m currently learning **nextjs,laravel,react native**
